@@ -4,3 +4,4 @@ python-decouple
 youtube_dl
 asyncio
 PyNaCl
+opuslib
