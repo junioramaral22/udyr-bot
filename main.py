@@ -23,7 +23,7 @@ for filename in os.listdir('./cogs'):
 @client.event
 async def on_member_join(member):
 
-    msg = f"Bem vindo {member.mention}! Faz o Uga e adore Udyr"
+    msg = f"Bem vindo {member.mention}! Faz o Uga e adore Udyr!"
 
     await member.send(msg)
 
